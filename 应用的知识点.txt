@@ -1,0 +1,7 @@
+应用的知识点：
+1.Navigator路由的使用，来源于react-native-deprecated-custom-components
+2.TabNavigator导航的使用，来源于react-native-tab-navigator
+3.SectionList列表使用，上拉刷新，下拉加载
+4.TouchableHighlight使用以及onPress事件点击
+5.Swiper使用，来源于react-native-swiper
+6.fetch数据请求使用（https）
